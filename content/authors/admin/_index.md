@@ -27,7 +27,7 @@ education:
   courses:
   - course: PhD in Social Sciences
     institution: KU Leuven
-    year: 2012
+    year: 2013
   - course: MSc in Management of Public Organizations
     institution: Ghent University
     year: 2007

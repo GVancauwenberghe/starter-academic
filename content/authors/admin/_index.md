@@ -1,26 +1,26 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Glenn Vancauwenberghe
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Research Manager
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: KU Leuven - Spatial Applications Divsion Leuven (SADL)
+  url: http://sadl.kuleuven.be/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include geospatial data and data infrastructure 
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Spatial Data Infrastructures
+- Open data
+- Digital Skills
 
 # Education to show in About widget
 education:

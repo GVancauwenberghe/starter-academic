@@ -4,7 +4,7 @@ summary: The overall objective of SPIDER is to promote and strengthen active lea
 tags:
 - Erasmus+
 - Skills
-- Completed
+- Finished
 
 ---
 

@@ -3,6 +3,8 @@ title: EO4GEO
 summary: Sector Skills Alliance for the Space/Geospatial Sector
 tags:
 - Erasmus+
+- Ongoing
+- Skills
 date: "2016-04-27T00:00:00Z"
 
 

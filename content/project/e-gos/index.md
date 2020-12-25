@@ -1,10 +1,10 @@
 ---
-title: E-GOS Effective Governance of Open Spatial Data
+title: E-GOS - Effective Governance of Open Spatial Data
 summary: The overall objective of SPIDER is to promote and strengthen active learning and teaching towards Open Spatial Data Infrastructures. The project explores, develops and implements the concept of Open SDI as a new paradigm to SDI education and promotes active and multidisciplinary learning and teaching on this topic.
 tags:
 - Erasmus+
 - Skills
-- Ongoing
+- Finished
 
 ---
 

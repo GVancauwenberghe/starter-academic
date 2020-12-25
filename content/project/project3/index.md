@@ -1,8 +1,10 @@
 ---
-title: Exomple Project
-summary: An example of using the in-built project page.
+title: SPIDER - Open Spatial Data Infrastructure Education Network
+summary: The overall objective of SPIDER is to promote and strengthen active learning and teaching towards Open Spatial Data Infrastructures. The project explores, develops and implements the concept of Open SDI as a new paradigm to SDI education and promotes active and multidisciplinary learning and teaching on this topic.
 tags:
-- Deep Learning
+- Erasmus+
+- Skills
+- Ongoing
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

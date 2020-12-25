@@ -1,5 +1,5 @@
 ---
-title: EO4GEO
+title: SEED4NA - Spatial Data Infrastructures and Earth Observation Education and Training for North-Africa
 summary: Sector Skills Alliance for the Space/Geospatial Sector
 tags:
 - Erasmus+

@@ -1,7 +1,7 @@
 ---
 title: E-GOS - Effective Governance of Open Spatial Data
-summary: The overallThe central research question the project aims to answer is 'what is the impact of different models for governing open spatial data on the performance of open spatial data policies in Europe?'. To answer this research question, a case study approach was implemented, analysing two countries that are among the leading open data countries in the world, the Netherlands and the United Kingdom 
-tages:
+summary: The overall objective of SPIDER is to promote and strengthen active learning and teaching towards Open Spatial Data Infrastructures. The project explores, develops and implements the concept of Open SDI as a new paradigm to SDI education and promotes active and multidisciplinary learning and teaching on this topic.
+tags:
 - Erasmus+
 - Skills
 - Finished

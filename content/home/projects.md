@@ -7,7 +7,7 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 65
+weight: 35
 
 title: Projects
 subtitle: ''
@@ -25,12 +25,12 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-  - name: All
-    tag: '*'
   - name: Ongoing
     tag: Ongoing
   - name: Finished
     tag: Finished
+  - name: All
+    tag: '*'
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

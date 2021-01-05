@@ -1,9 +1,9 @@
 ---
-title: Welcome to Wowchemy, the website builder for Hugo
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+title: New project: Pilot Study on Space Traffic Management
+subtitle: A new research project started in December 2020, on the execution of a pilot study on Space Traffic Management in Europe. 
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary: A new research project started in December 2020, on the execution of a pilot study on Space Traffic Management in Europe.
 
 # Link this post with a project
 projects: []

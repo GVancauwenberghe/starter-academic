@@ -1,5 +1,5 @@
 ---
-title: E-GOS - Effective Governance of Open Spatial Data
+title: E-GOES - Effective Governance of Open Spatial Data
 summary: The central research question this project aims to answer is 'what is the impact of different models for governing open spatial data on the performance of open spatial data policies in Europe?'. To answer this question, a case study approach was implemented, analysing two countries that are among the leading open data countries in the world, the Netherlands and the United Kingdom 
 tags:
 - Erasmus+

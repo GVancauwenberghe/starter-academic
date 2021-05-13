@@ -68,7 +68,7 @@ email: ""
 highlight_name: false
 ---
 
-Dr. Glenn Vancauwenberghe is research manager at the Spatial Applications Division Leuven (SADL) of the KU Leuven. His research interests include geospatial data infrastructures, public sector governance and the assessment of data policies. 
+Glenn Vancauwenberghe is research manager at the Spatial Applications Division Leuven (SADL) of the KU Leuven. His research interests include geospatial data infrastructures, public sector governance and the assessment of data policies. 
 
 Glenn has been involved as principal investigator in various projects in the domain of geospatial data and geo-information, in which he mainly focused on the integration of geospatial data in digital government and assessments of the impact of geospatial data and data infrastructures. 
 
